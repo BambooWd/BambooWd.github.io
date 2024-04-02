@@ -16,7 +16,7 @@ body.night::before {
 
 body.night {
     background-color: #232323 !important;
-    background-image: url(../images/ico/star.png) !important;
+    background-image: url(../images/ico/bh.png) !important;
     transition: 0.3s;
 }
 
